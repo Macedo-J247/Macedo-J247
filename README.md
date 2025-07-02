@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Analytics
+### Some analytics...
 <table>
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+    </td>
+    <td>
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
     </td>
   </tr>
 </table>
