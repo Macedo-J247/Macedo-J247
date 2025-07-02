@@ -1,25 +1,54 @@
 ## Hi there 👋
 
 ### Here some analytics...
-<img align="left" width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/> | <img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/> |
-|:-----|-----:|
-<br>
+<div align="center">
+    <tr>
+      <td>
+        <img align="center" width=75% src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+      </td>
+    </tr>
+</div>
 
 <hr>
+
+<div align="center">
+  <table color="black">
+    <tr>
+      <td width="50%">
+        <h3> What i use to code: </h3>
+        <ul>
+          <li> <b>IDE:</b> </li>
+          <img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
+          <br>
+          <li> <b>OS:<b> </li>
+          <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
+          <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3> Coluna 2 </h3>
+        <ul>
+          <li> Elemento 1 </li>
+          <li> Elemento 2 </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### What i use to code:
 
 <tr>
   <td>
-    <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
+    
   </td>
   <td>
-    <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
+    
   </td>
 </tr>
 <tr>
   <td>
-    <img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
+    
   </td>
 </tr>
 <br>
@@ -96,4 +125,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<td>
+        <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+      </td>
+
 -->
