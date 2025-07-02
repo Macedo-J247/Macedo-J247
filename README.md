@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&height=30&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <hr>
 <h3 align="left"> What i use to code </h3>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
@@ -18,7 +18,7 @@
 <br>
 <hr>
 <p align="center">
-	<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+	<img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
 </p>
 <hr>
 <p align="center">
