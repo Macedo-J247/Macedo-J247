@@ -18,12 +18,9 @@
 <br>
 <hr>
 <p align="center">
-	<img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
-</p>
-<hr>
-<p align="center">
-	<img width="395" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
-	<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
+	<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+	<img width="330" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+	<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
 </p>
 <hr>
 <!-- ## Hi there 👋 -->
