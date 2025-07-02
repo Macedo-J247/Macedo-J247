@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <hr>
-<p align="center">
-	<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
-</p>
-<hr>
 <h3 align="left"> What i use to code </h3>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
@@ -20,6 +16,10 @@
 <img align="left" height="32" src="https://github.com/user-attachments/assets/11d37339-6488-4896-aba5-c6279b769b98" alt="Typescript"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/611fe89a-8203-4852-8b18-385e88329add" alt="PostegreSQL"/>
 <br>
+<hr>
+<p align="center">
+	<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+</p>
 <hr>
 <p align="center">
 	<img width="395" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
