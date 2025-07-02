@@ -7,9 +7,8 @@
 
 <hr>
 
-### 💬 What i know... <br>
+### What i use to code:
 
-* #### OS
 <tr>
   <td>
     <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
@@ -18,15 +17,14 @@
     <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
   </td>
 </tr>
-<br>
-
-* #### IDE
 <tr>
   <td>
     <img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
   </td>
 </tr>
 <br>
+
+### 💬 What i know... <br>
 
 * #### Jack of all trades
 <tr>
@@ -78,7 +76,7 @@
 </tr>
 <br>
 
-* #### Here some analytics...
+### Here some analytics...
 <tr>
   <td>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
