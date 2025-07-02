@@ -29,12 +29,12 @@
 <table>
 	<tr>
 		<td align="center">
-			<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+			<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
 			<br>
-			<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+			<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
 		</td>
 		<td align="center">
-			<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&&layout=donut-vertical" alt="Github Stats"/>
+			<img width="100%" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&&layout=donut-vertical" alt="Github Stats"/>
 		</td>
 	</tr>
 </table>
