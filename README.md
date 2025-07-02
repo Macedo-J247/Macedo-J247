@@ -1,57 +1,29 @@
-## Hi there 👋
-
-### Here some analytics...
-<div align="center">
-    <tr>
-      <td>
-        <img align="center" width=75% src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
-      </td>
-    </tr>
-</div>
-
+<!-- ## Hi there 👋 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <hr>
 
-<div align="center">
-  <table color="black">
-    <tr>
-      <td width="50%">
-        <h3> What i use to code: </h3>
-        <ul>
-          <li> <b>IDE:</b> </li>
-          <img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
-          <br>
-          <li> <b>OS:<b> </li>
-          <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
-          <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3> Coluna 2 </h3>
-        <ul>
-          <li> Elemento 1 </li>
-          <li> Elemento 2 </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### What i use to code:
-
-<tr>
-  <td>
-    
-  </td>
-  <td>
-    
-  </td>
 </tr>
 <tr>
-  <td>
-    
-  </td>
+    <td>
+        <img align="right" width=60% src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+    </td>
+    <td>
+        <img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+    </td>
+    <td>
+        <img align="right" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
+    </td>
 </tr>
-<br>
+<tr>
+    <td align="left">
+      <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
+      <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
+    </td>
+    <td>
+      <img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
+    </td>
+</tr>
 
 ### 💬 What i know... <br>
 
@@ -95,7 +67,6 @@
     <img align="left" height="32" src="https://github.com/user-attachments/assets/611fe89a-8203-4852-8b18-385e88329add" alt="PostegreSQL"/>
   </td>
 </tr>
-<br>
 
 * #### Mobile Development
 <tr>
@@ -104,13 +75,6 @@
   </td>
 </tr>
 <br>
-
-### Here some analytics...
-<tr>
-  <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
-  </td>
-</tr>
 
 <!--
 **Macedo-J247/Macedo-J247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -125,9 +89,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<td>
-        <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
-      </td>
-
 -->
