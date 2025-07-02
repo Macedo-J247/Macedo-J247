@@ -17,8 +17,8 @@
 <img align="left" height="32" src="https://github.com/user-attachments/assets/11d37339-6488-4896-aba5-c6279b769b98" alt="Typescript"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/611fe89a-8203-4852-8b18-385e88329add" alt="PostegreSQL"/>
 <br>
-<br>
 
+### Analytics
 <p align="center">
 	<img width="290" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
 	<img width="273" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
