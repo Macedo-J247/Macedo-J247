@@ -15,6 +15,7 @@
 <img align="left" height="32" src="https://github.com/user-attachments/assets/a1d42dab-2f13-47fe-b409-8dfd0988c81e" alt="C"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/1e14f1f4-97d6-40cf-8105-0a69cf6bd464" alt="Cpp"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/c4c9fcf5-d58a-4785-bc95-980b547ace80" alt="Java"/>
+<img align="left" height="32" src="https://github.com/user-attachments/assets/95345fd6-c57f-43d0-a4b9-c003ead63c68" alt="Dart"/>
 <br><br>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/85478fc0-0014-43b0-8254-2d5b89c11d80" alt="HTML5"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/67f742b7-4da5-410f-b5f0-e4087b528748" alt="CSS"/>
