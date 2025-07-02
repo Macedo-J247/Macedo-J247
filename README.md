@@ -2,7 +2,7 @@
 ![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=Macedo-J247&data=followers,repositories,stars,commits&theme=dark)
 <hr>
 
-### What i use to code
+### What i use to code...
 <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
@@ -10,7 +10,7 @@
 
 <hr>
 
-### What i know:
+### What i know...
 <img align="left" height="32" src="https://github.com/user-attachments/assets/0de4c604-a652-49bb-8703-ef07bbd8d820" alt="Python"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/a1d42dab-2f13-47fe-b409-8dfd0988c81e" alt="C"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/1e14f1f4-97d6-40cf-8105-0a69cf6bd464" alt="Cpp"/>
@@ -25,7 +25,7 @@
 
 <hr>
 
-### Analytics
+### Analytics...
 <table>
 	<tr>
 		<td align="center">
