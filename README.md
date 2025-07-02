@@ -1,68 +1,44 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <hr>
-
+<p align="center">
+	<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+</p>
+<hr>
 <table align="center">
 	<tr>
-		<td align="left" width="50%">
-			<h3> What i use to code: </h3>
+		<h3 align="center"> What i use to code && i know: </h3>
+		<td align="left" width="400">
+			<h4> OS && IDE </h4>
 			<img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
-	      	<img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
-	      	<img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
 			<br>
-	    </td>
-		<td align="right" width="50%">
-			<p align="right">
-				<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
-			</p>
+			<h4> Jack of all trades </h4>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/0de4c604-a652-49bb-8703-ef07bbd8d820" alt="Python"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/a1d42dab-2f13-47fe-b409-8dfd0988c81e" alt="C"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/1e14f1f4-97d6-40cf-8105-0a69cf6bd464" alt="Cpp"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/c4c9fcf5-d58a-4785-bc95-980b547ace80" alt="Java"/>
+			<br>
 		</td>
-		<tr>
-			<h3> 💬 What i know... </h3>
-			<td>
-				<h4> Jack of all trades </h4>
-				<img align="left" height="32" src="https://github.com/user-attachments/assets/0de4c604-a652-49bb-8703-ef07bbd8d820" alt="Python"/>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/a1d42dab-2f13-47fe-b409-8dfd0988c81e" alt="C"/>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/1e14f1f4-97d6-40cf-8105-0a69cf6bd464" alt="Cpp"/>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/c4c9fcf5-d58a-4785-bc95-980b547ace80" alt="Java"/>
-				<br>
-	  		</td>
-			<td>
-				<p align="right">
-					<img width="300" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<h4> Internet </h4>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/85478fc0-0014-43b0-8254-2d5b89c11d80" alt="HTML5"/>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/67f742b7-4da5-410f-b5f0-e4087b528748" alt="CSS"/>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/98e0b7ee-cd4c-49de-a834-da6899dbbafa" alt="Javasc
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/11d37339-6488-4896-aba5-c6279b769b98" alt="Typescript"/>
-				<br>
-	  		</td>
-			<td>
-				<p align="right">
-		 			<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
-				</p>
-			</td>
-		</tr>
-		<tr>
-	  		<td>
-				<h4> Database System </h4>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/611fe89a-8203-4852-8b18-385e88329add" alt="PostegreSQL"/>
-				<br>
-	  		</td>
-		</tr>
-		<tr>
-	  		<td>
-				<h4> Mobile Development <h4>
-	    		<img align="left" height="32" src="https://github.com/user-attachments/assets/a5925c98-4861-4833-bbe0-0826e699f470" alt="Dart"/>
-				<br>
-	  		</td>
-		</tr>
+		<td align="left" width="400">
+			<h4> Internet </h4>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/85478fc0-0014-43b0-8254-2d5b89c11d80" alt="HTML5"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/67f742b7-4da5-410f-b5f0-e4087b528748" alt="CSS"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/98e0b7ee-cd4c-49de-a834-da6899dbbafa" alt="Javascript"/>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/11d37339-6488-4896-aba5-c6279b769b98" alt="Typescript"/>
+			<br>
+			<h4> Database System </h4>
+			<img align="left" height="32" src="https://github.com/user-attachments/assets/611fe89a-8203-4852-8b18-385e88329add" alt="PostegreSQL"/>
+			<br>
+		</td>
 	</tr>
- </table>
-
+</table>
+<hr>
+<p align="center">
+	<img width="395" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+	<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
+</p>
+<hr>
 <!-- ## Hi there 👋 -->
 <!--
 **Macedo-J247/Macedo-J247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
