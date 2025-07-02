@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Analytics
+<table>
+  <tr>
+    <td>
+      <img align="left" src="![Macedo-J247's Stats](https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true)" alt="Github Stats"/>
+    </td>
+  </tr>
+</table>
