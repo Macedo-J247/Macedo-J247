@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&height=30&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
-<h3 align="left"> What i use to code </h3>
+### What i use to code
 <img align="left" height="32" src="https://github.com/user-attachments/assets/5c7e45b9-4cd4-4cbe-801a-ceacea41eec6" alt="Windows"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/fedba522-687f-46a9-8555-c0a6a85ed2e2" alt="Linux"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/6c029e78-4ec4-4ce8-a218-777bcc03fdbd" alt="VScode"/>
 <br>
-<h3> What i know: </h3>
+### What i know:
 <img align="left" height="32" src="https://github.com/user-attachments/assets/0de4c604-a652-49bb-8703-ef07bbd8d820" alt="Python"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/a1d42dab-2f13-47fe-b409-8dfd0988c81e" alt="C"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/1e14f1f4-97d6-40cf-8105-0a69cf6bd464" alt="Cpp"/>
@@ -14,6 +14,7 @@
 <img align="left" height="32" src="https://github.com/user-attachments/assets/98e0b7ee-cd4c-49de-a834-da6899dbbafa" alt="Javascript"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/11d37339-6488-4896-aba5-c6279b769b98" alt="Typescript"/>
 <img align="left" height="32" src="https://github.com/user-attachments/assets/611fe89a-8203-4852-8b18-385e88329add" alt="PostegreSQL"/>
+<br>
 <br>
 <hr>
 <p align="center">
