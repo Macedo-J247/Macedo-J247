@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&height=30&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&height=30&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg) <br>
+![Profile views](https://komarev.com/ghpvc/?username=Macedo-J247&color=orange)
 <hr>
 
 ### What i use to code
@@ -27,9 +27,9 @@
 
 ### Analytics
 <p align="center">
-	<img width="290" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
-	<img width="273" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
-	<img width="207" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
+	<img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+	<img width="auto" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+	<img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
 </p>
 
 <!-- ## Hi there 👋 -->
