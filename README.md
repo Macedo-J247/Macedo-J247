@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8FF&width=435&height=30&lines=Hi+there!+0%2F;Welcome+to+my+profile+page!)](https://git.io/typing-svg) <br>
-![Profile views](https://komarev.com/ghpvc/?username=Macedo-J247&color=orange)
+![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=Macedo-J247&data=followers,repositories,stars,commits&theme=dark)
 <hr>
 
 ### What i use to code
@@ -26,15 +26,18 @@
 <hr>
 
 ### Analytics
-<p align="center">
-	<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
-</p>
-<p align="center">
-	<img width="75%" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
-</p>
-<p align="center">
-	<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Github Stats"/>
-</p>
+<table>
+	<tr>
+		<td align="center">
+			<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo-J247&theme=graywhite&hide_border=false" alt="Github Stats"/>
+			<br>
+			<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="Github Stats"/>
+		</td>
+		<td align="center">
+			<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedo-J247&theme=graywhite&show_icons=true&hide_border=false&&layout=donut-vertical" alt="Github Stats"/>
+		</td>
+	</tr>
+</table>
 
 <!-- ## Hi there 👋 -->
 <!--
